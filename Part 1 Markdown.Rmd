@@ -2,7 +2,7 @@
 title: "Statistical Infreence Project"
 author: "Dale Hurd"
 date: "2022-10-14"
-output: html_document
+output: html_document or pdf
 ---
 
 ```{r setup, include=FALSE}
